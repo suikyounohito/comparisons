@@ -2,7 +2,7 @@
 
 | Header                | Macbook Pro 16       | Macbook Pro 16       | Macbook Pro 16       | Macbook Pro 14       | Macbook Pro 14       | Mac mini M1       |
 | :---                  | :----:               | :----:               | :----:               | :----:               | :----:               | :----:            |
-| Date                  | 2021-Oct-26          | 2021-Oct-26          | 2021-Oct-26          | 2021-Oct-26          | 2021-Oct-26          |                   |
+| Date                  | 2021-Oct-26          | 2021-Oct-26          | 2021-Oct-26          | 2021-Oct-26          | 2021-Oct-26          | 2020-Nov-11       |
 | Price                 | S$3,749              | S$4,049              | S$5,249              | S$2,999              | S$3,749              | S$1,879           |
 | CPU                   | M1 Pro 10C           | M1 Pro 10C           | M1 Max 10C           | M1 Pro 8C            | M1 Pro 10C           | M1                |
 | GPU                   | 16C                  | 16C                  | 32C                  | 14C                  | 16C                  | 8C                |
